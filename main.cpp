@@ -1,10 +1,7 @@
 //
 //  main.cpp
 //  101-blockprob
-//
-//  Created by Tanusree Sharma on 10/7/18.
-//  Copyright © 2018 Tanusree Sharma. All rights reserved.
-//
+
 
 #include <iostream>
 #include <vector>
