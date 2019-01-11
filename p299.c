@@ -5,7 +5,6 @@
   int main (){
       int T[60], swap, i, j, n,m;
       scanf("%d", &n);
-
       while (n--){
         scanf("%d", &m);
         for(i=0; i < m; ++i)
